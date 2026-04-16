@@ -47,9 +47,9 @@ Currently working on projects involving:
 
 ### 🧠 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
 ---
 
 ### ☁️ Infra & Deployment
