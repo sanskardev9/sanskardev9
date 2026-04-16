@@ -81,8 +81,8 @@ A real-time 1v1 browser fighting game using peer-to-peer communication.
 - Canvas-based game engine with custom physics & combat logic  
 - Room-based multiplayer with WebSocket signaling  
 
-🔗 Repo: https://github.com/sanskardev9/RealTime-Rivals  
-🎥 Demo: https://youtu.be/ph4oxrqVMrw  
+Repo: https://github.com/sanskardev9/RealTime-Rivals  
+Demo: https://youtu.be/ph4oxrqVMrw  
 
 ---
 
@@ -94,7 +94,7 @@ A mobile-first finance app focused on improving user consistency in expense trac
 - SMS-based auto expense detection (Android)  
 - Built with React Native + Supabase  
 
-🔗 Repo: https://github.com/sanskardev9/MoneyMate  
+Repo: https://github.com/sanskardev9/MoneyMate  
 
 ---
 
@@ -106,7 +106,7 @@ A hybrid system combining blockchain verification with intelligent job tracking.
 - AI-powered assistant integration (planned)  
 - MongoDB for off-chain analytics & tracking  
 
-🔗 Repo: https://github.com/sanskardev9/Job-Chain  
+Repo: https://github.com/sanskardev9/Job-Chain  
 
 ---
 
