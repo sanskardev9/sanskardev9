@@ -3,6 +3,8 @@
 🚀 Frontend Developer | React | Next.js  
 🧠 Focused on real-time systems, geospatial applications & scalable frontend architectures  
 
+> 🚀 Building real-time, map-based, and interactive frontend systems
+
 ---
 
 ## ⚡ About Me
@@ -10,21 +12,50 @@
 I’m a frontend developer who enjoys building systems that go beyond typical UI work—especially in areas like real-time communication, map-based applications, and simulation-heavy interfaces.
 
 Currently working on projects involving:
-- Real-time data synchronization
-- WebRTC-based communication
-- Route optimization & geospatial logic
-- System design at the frontend layer
+- Real-time data synchronization  
+- WebRTC-based communication  
+- Route optimization & geospatial logic  
+- System design at the frontend layer  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-- **Frontend:** React, Next.js, JavaScript, TypeScript  
-- **Styling:** Tailwind CSS, ShadCN UI  
-- **Real-time:** WebRTC, WebSockets  
-- **Maps & Geo:** MapLibre, Google Maps API  
-- **Backend & DB:** Node.js, Supabase, MongoDB  
-- **Other:** Docker, Valhalla, REST APIs  
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![ShadCN](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge)
+
+---
+
+### ⚡ Real-Time & Systems
+![WebRTC](https://img.shields.io/badge/WebRTC-red?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-grey?style=for-the-badge)
+![Canvas](https://img.shields.io/badge/HTML5_Canvas-orange?style=for-the-badge)
+
+---
+
+### 🗺️ Maps & Geospatial
+![MapLibre](https://img.shields.io/badge/MapLibre-blue?style=for-the-badge)
+![Google Maps](https://img.shields.io/badge/Google_Maps-green?style=for-the-badge&logo=googlemaps)
+![Valhalla](https://img.shields.io/badge/Valhalla-grey?style=for-the-badge)
+
+---
+
+### 🧠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+---
+
+### ☁️ Infra & Deployment
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-purple?style=for-the-badge)
 
 ---
 
@@ -51,7 +82,7 @@ A real-time 1v1 browser fighting game using peer-to-peer communication.
 - Room-based multiplayer with WebSocket signaling  
 
 🔗 Repo: https://github.com/sanskardev9/RealTime-Rivals  
-🎥 Demo: https://youtu.be/ph4oxrqVMrw
+🎥 Demo: https://youtu.be/ph4oxrqVMrw  
 
 ---
 
@@ -63,7 +94,7 @@ A mobile-first finance app focused on improving user consistency in expense trac
 - SMS-based auto expense detection (Android)  
 - Built with React Native + Supabase  
 
-🔗 Repo: https://github.com/sanskardev9/MoneyMate
+🔗 Repo: https://github.com/sanskardev9/MoneyMate  
 
 ---
 
@@ -75,7 +106,7 @@ A hybrid system combining blockchain verification with intelligent job tracking.
 - AI-powered assistant integration (planned)  
 - MongoDB for off-chain analytics & tracking  
 
-🔗 Repo: https://github.com/sanskardev9/Job-Chain
+🔗 Repo: https://github.com/sanskardev9/Job-Chain  
 
 ---
 
@@ -90,8 +121,9 @@ A hybrid system combining blockchain verification with intelligent job tracking.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Sanskaar Singh](https://www.linkedin.com/in/sanskar-singh-b17819241)
-- GitHub: https://github.com/sanskardev9
+
+- 💼 LinkedIn: [Sanskaar Singh](https://www.linkedin.com/in/sanskar-singh-b17819241)  
+- 💻 GitHub: [sanskardev9](https://github.com/sanskardev9)  
 
 ---
 
