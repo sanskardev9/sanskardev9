@@ -1,13 +1,13 @@
 # Hey, I'm Sanskaar 👋
 
-🚀 Frontend Developer | React | Next.js  
-🧠 Focused on real-time systems, geospatial applications & scalable frontend architectures  
+Frontend Developer | React | Next.js  
+Focused on real-time systems, geospatial applications & scalable frontend architectures  
 
-> 🚀 Building real-time, map-based, and interactive frontend systems
+> Building real-time, map-based, and interactive frontend systems
 
 ---
 
-## ⚡ About Me
+## About Me
 
 I’m a frontend developer who enjoys building systems that go beyond typical UI work—especially in areas like real-time communication, map-based applications, and simulation-heavy interfaces.
 
@@ -19,9 +19,9 @@ Currently working on projects involving:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
@@ -31,37 +31,37 @@ Currently working on projects involving:
 
 ---
 
-### ⚡ Real-Time & Systems
+### Real-Time & Systems
 ![WebRTC](https://img.shields.io/badge/WebRTC-red?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-grey?style=for-the-badge)
 ![Canvas](https://img.shields.io/badge/HTML5_Canvas-orange?style=for-the-badge)
 
 ---
 
-### 🗺️ Maps & Geospatial
+### Maps & Geospatial
 ![MapLibre](https://img.shields.io/badge/MapLibre-blue?style=for-the-badge)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-green?style=for-the-badge&logo=googlemaps)
 ![Valhalla](https://img.shields.io/badge/Valhalla-grey?style=for-the-badge)
 
 ---
 
-### 🧠 Backend & Database
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ---
 
-### ☁️ Infra & Deployment
+### Infra & Deployment
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-purple?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🥇 RouteMate — Real-Time Route Optimization & Simulation
+### 1. RouteMate — Real-Time Route Optimization & Simulation
 A full-stack routing system with dynamic re-routing, geospatial constraints, and vehicle simulation.
 
 - Real-time vehicle movement simulation along routes  
@@ -72,7 +72,7 @@ A full-stack routing system with dynamic re-routing, geospatial constraints, and
 
 ---
 
-### 🥈 RealTimeRivals — WebRTC Multiplayer Fighting Game
+### 2. RealTimeRivals — WebRTC Multiplayer Fighting Game
 A real-time 1v1 browser fighting game using peer-to-peer communication.
 
 - WebRTC data channels for low-latency gameplay  
@@ -86,7 +86,7 @@ A real-time 1v1 browser fighting game using peer-to-peer communication.
 
 ---
 
-### 🥉 MoneyMate — Personal Finance Habit Builder
+### 3. MoneyMate — Personal Finance Habit Builder
 A mobile-first finance app focused on improving user consistency in expense tracking.
 
 - Budget planning & income tracking  
@@ -98,7 +98,7 @@ A mobile-first finance app focused on improving user consistency in expense trac
 
 ---
 
-### ⚙️ JobChain — Web3 + AI Job Tracking System
+### 4. JobChain — Web3 + AI Job Tracking System
 A hybrid system combining blockchain verification with intelligent job tracking.
 
 - Wallet-based authentication  
@@ -110,7 +110,7 @@ A hybrid system combining blockchain verification with intelligent job tracking.
 
 ---
 
-## 🎯 What I’m Interested In
+## What I’m Interested In
 
 - Real-time systems & synchronization  
 - Map-based and logistics applications  
@@ -120,13 +120,13 @@ A hybrid system combining blockchain verification with intelligent job tracking.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: [Sanskaar Singh](https://www.linkedin.com/in/sanskar-singh-b17819241)  
-- 💻 GitHub: [sanskardev9](https://github.com/sanskardev9)  
+- LinkedIn: [Sanskaar Singh](https://www.linkedin.com/in/sanskar-singh-b17819241)  
+- GitHub: [sanskardev9](https://github.com/sanskardev9)  
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I enjoy building complex systems on the frontend that typically people expect from backend-heavy architectures 😄
