@@ -1,4 +1,4 @@
-# Hey, I'm Sanskaar 👋
+# Hey, I'm Sanskar 👋
 
 Frontend Developer | React | Next.js  
 Focused on real-time systems, geospatial applications & scalable frontend architectures  
@@ -122,7 +122,7 @@ Repo: https://github.com/sanskardev9/Job-Chain
 
 ## Connect With Me
 
-- LinkedIn: [Sanskaar Singh](https://www.linkedin.com/in/sanskar-singh-b17819241)  
+- LinkedIn: [Sanskar Singh](https://www.linkedin.com/in/sanskar-singh-b17819241)  
 - GitHub: [sanskardev9](https://github.com/sanskardev9)  
 
 ---
