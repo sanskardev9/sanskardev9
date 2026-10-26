@@ -61,7 +61,22 @@ Currently working on projects involving:
 
 ## Featured Projects
 
-### 1. RouteMate — Real-Time Route Optimization & Simulation
+### 1. RideMate — Real-Time Group Riding & Safety
+
+A mobile-first group riding application focused on live location sharing, real-time communication, and rider safety.
+
+- Real-time location sharing using WebSockets
+- Interactive maps powered by Leaflet and OpenStreetMap
+- Ride sessions with duration, distance, and ride history
+- Emergency SOS alerts with live location sharing
+- Real-time group chat and WebRTC voice calling
+
+Live Demo: https://ride-mate-frontend-r1lp.vercel.app/  
+Repo: https://github.com/sanskardev9/RideMate-Frontend
+
+---
+
+### 2. RouteMate — Real-Time Route Optimization & Simulation
 A full-stack routing system with dynamic re-routing, geospatial constraints, and vehicle simulation.
 
 - Real-time vehicle movement simulation along routes  
@@ -72,7 +87,7 @@ A full-stack routing system with dynamic re-routing, geospatial constraints, and
 
 ---
 
-### 2. RealTimeRivals — WebRTC Multiplayer Fighting Game
+### 3. RealTimeRivals — WebRTC Multiplayer Fighting Game
 A real-time 1v1 browser fighting game using peer-to-peer communication.
 
 - WebRTC data channels for low-latency gameplay  
@@ -86,7 +101,7 @@ Demo: https://youtu.be/ph4oxrqVMrw
 
 ---
 
-### 3. MoneyMate — Personal Finance Habit Builder
+### 4. MoneyMate — Personal Finance Habit Builder
 A mobile-first finance app focused on improving user consistency in expense tracking.
 
 - Budget planning & income tracking  
@@ -95,18 +110,6 @@ A mobile-first finance app focused on improving user consistency in expense trac
 - Built with React Native + Supabase  
 
 Repo: https://github.com/sanskardev9/MoneyMate  
-
----
-
-### 4. JobChain — Web3 + AI Job Tracking System
-A hybrid system combining blockchain verification with intelligent job tracking.
-
-- Wallet-based authentication  
-- On-chain credentials using EAS & SBTs  
-- AI-powered assistant integration (planned)  
-- MongoDB for off-chain analytics & tracking  
-
-Repo: https://github.com/sanskardev9/Job-Chain  
 
 ---
 
