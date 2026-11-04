@@ -3,7 +3,7 @@
 Full-Stack Developer | React | Next.js | Node.js | Python  
 Focused on real-time systems, geospatial applications & scalable full-stack architectures  
 
-> I build apps that solve my own everyday problems, from the UI to the backend
+> I build apps that solve my own everyday problems, end to end.
 
 ---
 
